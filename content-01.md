@@ -11,8 +11,11 @@
 Network kai tareeqon se ban sakta hai:
 
 **1. Wired (cable se):** Devices ko **LAN cable (wire)** se jodo. Tez aur mehfooz. (Office/lab mein)
+
 **2. Wireless (WiFi se):** Bina cable, **WiFi signal** se jodo. Aasaan, ghar mein aam. (Mobile, laptop)
+
 **3. Bluetooth se:** Chhoti duri ke liye (do phone, headphone)
+
 **4. Router/Switch se:** Ek central device se kai devices jodo (sabse aam tareeqa)
 
 **Yaad rakho:** network banane ke 2 main tareeqe — **wired** (cable) aur **wireless** (WiFi). Baaki inhi ke roop hain.
