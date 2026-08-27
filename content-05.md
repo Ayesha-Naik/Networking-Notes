@@ -162,6 +162,7 @@ Chalo upar wale address ka **pehla group `2001`** poora convert karte hain, digi
 
 ## Quick Revision:
 
+|Cheez| Matlab |
 |---|---|
 | Hexadecimal | 16 digits: 0-9, A-F |
 | A / B / C / D / E / F | 10 / 11 / 12 / 13 / 14 / 15 |
